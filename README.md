@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jasminesor
+- 👋 Hi, I’m @jasminetor, assistance for jasminesor.
 - 👀 I’m interested in python, html, css, javascript and i also write portfolio strategies.
 - 🌱 I’m currently learning online portfolio strategy, pytorch, mysql and html.
 - 💞️ I’m looking to collaborate on ...
